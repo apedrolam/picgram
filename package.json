@@ -1,0 +1,22 @@
+{
+  "name": "picgram",
+  "version": "0.1.0",
+  "description": "Share your pics with your friends",
+  "main": "server.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/apedrolam/picgram.git"
+  },
+  "keywords": [
+    "picgram"
+  ],
+  "author": "Albert Pedrola",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/apedrolam/picgram/issues"
+  },
+  "homepage": "https://github.com/apedrolam/picgram#readme",
+  "dependencies": {
+    "express": "^4.15.3"
+  }
+}
