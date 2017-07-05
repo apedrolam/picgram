@@ -1,1 +1,1 @@
-Picgram is a Intagram like App
+Picgram is a Instagram like App
